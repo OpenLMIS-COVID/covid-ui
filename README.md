@@ -9,4 +9,6 @@ Multiple UI modules are compiled together with the OpenLMIS dev-ui to create the
 * [OpenLMIS Requisition UI](https://github.com/OpenLMIS/openlmis-requisition-ui)
 * [OpenLMIS UI Components](https://github.com/OpenLMIS/openlmis-ui-components)
 * [OpenLMIS UI Layout](https://github.com/OpenLMIS/openlmis-ui-layout)
+* [OpenLMIS Stock Management UI](https://github.com/OpenLMIS/openlmis-stockmanagement-ui)
+* [OpenLMIS Cold Chain Equipment UI](https://github.com/OpenLMIS/openlmis-cce-ui)
 
